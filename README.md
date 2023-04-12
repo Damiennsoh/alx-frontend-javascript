@@ -1,2 +1,1 @@
-# alx-frontend-javascript
-learning the basics of modern JavaScript (ES6)
+All about frontend development
